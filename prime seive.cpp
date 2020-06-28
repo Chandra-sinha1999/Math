@@ -23,3 +23,8 @@ int main() {
 	cout << endl;
 	return 0;
 }
+//we can also use bitset 
+//bitset<1000000> b;
+//b.set() it will set all bits as 1
+//rest will be same
+//it will be space optimization
